@@ -23,8 +23,8 @@ layouts_gallery_liguria:
     alt: "Coast line - Toulindac (FR)"
 # toc: true
 header:
-  image: /assets/images/about/europe2.jpg
-  caption: "European countries I lived in: Italy, France and UK [  (SplitShire)  ](https://www.splitshire.com/)"
+  image: /assets/images/about/intro.png
+  caption: "Rapallo - Lucca - Vannes -- [**Giggus**](/photography)"
 ---
 
 {% include figure image_path="assets/images/about/me_by_the_sea.jpeg" alt="this is a placeholder image" %}

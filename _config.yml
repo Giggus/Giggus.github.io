@@ -24,8 +24,8 @@ description              : "Personal website"
 url                      : "https://Giggus.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Giggus/Giggus.io"
-teaser                   : "/assets/images/light-bulb-1246043_640.jpg"
-logo                     : "/assets/images/icons8-bot-48.png"
+teaser                   : #"/assets/images/light-bulb-1246043_640.jpg"
+logo                     : #"/assets/images/icons8-bot-48.png"
 masthead_title           : "Giulio Cerruti - Personal website"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
